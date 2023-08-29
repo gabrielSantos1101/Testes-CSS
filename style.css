@@ -502,6 +502,10 @@ button {
   transform: rotateX(30deg) rotateZ(0);
 }
 /* weather */
+.weather {
+	position: relative;
+}
+
 .weather .container {
 	transform: scale(.9);
 	width: 1200px;
